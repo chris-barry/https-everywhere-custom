@@ -1,0 +1,5 @@
+<ruleset name="AxShare.com">
+  <target host="*.axshare.com" />
+  <target host="www.axshare.com" />
+  <rule from="^http:" to="https:" />
+</ruleset>

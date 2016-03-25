@@ -1,0 +1,7 @@
+<ruleset name="AddEvent.com">
+  <target host="addevent.com" />
+  <target host="www.addevent.com" />
+  <target host="track.addevent.com" />
+  <rule from="^http:" to="https:" />
+</ruleset>
+
