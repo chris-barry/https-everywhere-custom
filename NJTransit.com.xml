@@ -1,0 +1,7 @@
+<ruleset name="Njtransit.com">
+  <target host="njtransit.com" />
+  <target host="www.njtransit.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+

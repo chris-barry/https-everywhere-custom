@@ -1,0 +1,10 @@
+<ruleset name="MyWorkDay.com">
+  <target host="myworkday.com" />
+  <target host="www.myworkday.com" />
+  <target host="wd5.myworkday.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+
+
+

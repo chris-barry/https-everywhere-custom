@@ -1,0 +1,10 @@
+<ruleset name="Optimum.net">
+  <target host="optimum.net" />
+  <target host="www.optimum.net" />
+  <target host="webmail.optimum.net" />
+  <target host="webtop.webmail.optimum.net" />
+  <target host="voice.optimum.net" />
+
+
+  <rule from="^http:" to="https:" />
+</ruleset>
