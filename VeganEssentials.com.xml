@@ -1,0 +1,7 @@
+<ruleset name="VeganEssentials.com (partial)">
+  <!-- Main domain does not support https. -->
+  <target host="store.veganessentials.com" />
+  <rule from="^http:" to="https:" />
+</ruleset>
+
+

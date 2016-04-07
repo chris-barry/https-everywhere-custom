@@ -1,14 +1,6 @@
 <ruleset name="Scholastic.com">
-  <!--
-  <target host="scholastic.com" />
-  <target host="catalog.scholastic.com" />
-  <target host="clubs2.scholastic.com" />
-  <target host="www.scholastic.com" />
-  -->
-
   <target host="access.scholastic.com" />
   <target host="my.scholastic.com" />
   <target host="ltm.scholastic.com" />
-
   <rule from="^http:" to="https:" />
 </ruleset>

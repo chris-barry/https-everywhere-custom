@@ -1,0 +1,7 @@
+<ruleset name="NJSVRS.com">
+  <target host="voter.njsvrs.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+
+
