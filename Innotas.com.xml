@@ -1,0 +1,7 @@
+<ruleset name="Innotas.com">
+  <target host="*.innotas.com" />
+  <target host="www.innotas.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+
