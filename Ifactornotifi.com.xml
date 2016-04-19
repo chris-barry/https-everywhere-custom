@@ -1,0 +1,9 @@
+<ruleset name="Ifactornotifi.com">
+
+  <target host="ifactornotifi.com" />
+  <target host="*.ifactornotifi.com" />
+
+  <rule from="^http://([^/:@.]+)\.ifactornotifi\.com/" to="https://$1.ifactornotifi.com/" />
+
+</ruleset>
+

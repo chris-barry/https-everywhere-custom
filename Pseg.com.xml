@@ -1,0 +1,8 @@
+<ruleset name="Pseg.com">
+  <target host="pseg.com" />
+  <target host="myaccount.pseg.com" />
+  <target host="www.pseg.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+

@@ -1,0 +1,7 @@
+<ruleset name="Thenounproject.com">
+  <target host="thenounproject.com" />
+  <target host="www.thenounproject.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+

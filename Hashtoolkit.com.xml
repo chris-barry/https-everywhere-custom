@@ -1,0 +1,7 @@
+<ruleset name="Hashtoolkit.com">
+  <target host="hashtoolkit.com" />
+  <target host="www.hashtoolkit.com" />
+
+  <rule from="^http:" to="https:" />
+</ruleset>
+
