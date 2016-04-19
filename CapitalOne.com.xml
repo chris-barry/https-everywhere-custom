@@ -1,4 +1,4 @@
-<ruleset name="Capitalone.com">
+<ruleset name="CapitalOne.com">
   <target host="capitalone.com" />
   <target host="login1.capitalone.com" />
   <target host="servicing..capitalone.com" />
